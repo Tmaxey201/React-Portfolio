@@ -1,23 +1,34 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.a617e044.chunk.css",
-    "main.js": "/my-app/static/js/main.8c5379e5.chunk.js",
-    "main.js.map": "/my-app/static/js/main.8c5379e5.chunk.js.map",
-    "runtime-main.js": "/my-app/static/js/runtime-main.cc0e7be7.js",
-    "runtime-main.js.map": "/my-app/static/js/runtime-main.cc0e7be7.js.map",
-    "static/js/2.0776a14c.chunk.js": "/my-app/static/js/2.0776a14c.chunk.js",
-    "static/js/2.0776a14c.chunk.js.map": "/my-app/static/js/2.0776a14c.chunk.js.map",
-    "static/js/3.dd157172.chunk.js": "/my-app/static/js/3.dd157172.chunk.js",
-    "static/js/3.dd157172.chunk.js.map": "/my-app/static/js/3.dd157172.chunk.js.map",
-    "index.html": "/my-app/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/my-app/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.0776a14c.chunk.js.LICENSE.txt": "/my-app/static/js/2.0776a14c.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/my-app/static/media/logo.6ce24c58.svg"
+    "main.js": "/React-Portfolio/static/js/main.6189a847.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.6189a847.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.72e2eb81.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.72e2eb81.js.map",
+    "static/css/2.c268c7e3.chunk.css": "/React-Portfolio/static/css/2.c268c7e3.chunk.css",
+    "static/js/2.30a03b3c.chunk.js": "/React-Portfolio/static/js/2.30a03b3c.chunk.js",
+    "static/js/2.30a03b3c.chunk.js.map": "/React-Portfolio/static/js/2.30a03b3c.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/2.c268c7e3.chunk.css.map": "/React-Portfolio/static/css/2.c268c7e3.chunk.css.map",
+    "static/js/2.30a03b3c.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.30a03b3c.chunk.js.LICENSE.txt",
+    "static/media/GlobalGastro.ac2abb21.jpg": "/React-Portfolio/static/media/GlobalGastro.ac2abb21.jpg",
+    "static/media/MapMarauders.7cea3977.jpg": "/React-Portfolio/static/media/MapMarauders.7cea3977.jpg",
+    "static/media/Montserrat-Bold.079ca05d.ttf": "/React-Portfolio/static/media/Montserrat-Bold.079ca05d.ttf",
+    "static/media/Montserrat-SemiBold.fa8441f3.ttf": "/React-Portfolio/static/media/Montserrat-SemiBold.fa8441f3.ttf",
+    "static/media/RobotoMono-Regular.418a8f9f.ttf": "/React-Portfolio/static/media/RobotoMono-Regular.418a8f9f.ttf",
+    "static/media/about-page-img.0dff8584.png": "/React-Portfolio/static/media/about-page-img.0dff8584.png",
+    "static/media/about-sec-img.46e5da48.png": "/React-Portfolio/static/media/about-sec-img.46e5da48.png",
+    "static/media/hero.87e4d238.png": "/React-Portfolio/static/media/hero.87e4d238.png",
+    "static/media/map.5d91d17d.png": "/React-Portfolio/static/media/map.5d91d17d.png",
+    "static/media/notetaker.9d7c1fc6.jpg": "/React-Portfolio/static/media/notetaker.9d7c1fc6.jpg",
+    "static/media/personalportfolio.44ed725f.jpg": "/React-Portfolio/static/media/personalportfolio.44ed725f.jpg",
+    "static/media/projectImg.392150cd.png": "/React-Portfolio/static/media/projectImg.392150cd.png",
+    "static/media/scroll-down-arrow.b013ca45.svg": "/React-Portfolio/static/media/scroll-down-arrow.b013ca45.svg",
+    "static/media/social-media-arrow.f5e093ce.svg": "/React-Portfolio/static/media/social-media-arrow.f5e093ce.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cc0e7be7.js",
-    "static/js/2.0776a14c.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.8c5379e5.chunk.js"
+    "static/js/runtime-main.72e2eb81.js",
+    "static/css/2.c268c7e3.chunk.css",
+    "static/js/2.30a03b3c.chunk.js",
+    "static/js/main.6189a847.chunk.js"
   ]
 }
