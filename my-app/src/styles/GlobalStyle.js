@@ -7,12 +7,12 @@ const GlobalStyles = createGlobalStyle`
     box-sizing: border-box;
   }
   :root{
-    --dark-bg: #262626;
-    --gray-1: #BCB4B4;
+    --dark-bg: #222220;
+    --gray-1: #2e8b57;
     --deep-dark: #1E1E1E;
     --gray-2: #363636;
     --white : white;
-    --black: black;
+    --black: white;
   }
   html{
     font-size: 10px;
@@ -32,6 +32,9 @@ const GlobalStyles = createGlobalStyle`
   }
   button{
     outline: none
+  }
+  p {
+    color:white;
   }
   .container {
     max-width: 1200px;
