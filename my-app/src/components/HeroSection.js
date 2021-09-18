@@ -162,8 +162,8 @@ export default function HeroSection() {
           <div className="hero__info">
             <PText>
               I am a Full Stack Web Developer with a passion for pushing
-              bounderies. Specializing in front-end UX/UI development and
-              creating applications from the ground up
+              creative bounderies. Specializing in front-end UX/UI development
+              and creating applications from the ground up.
             </PText>
             <Button btnText="see my works" btnLink="/projects" />
           </div>
@@ -194,7 +194,7 @@ export default function HeroSection() {
                 </li>
                 <li>
                   <a
-                    href="http://webcifar.com"
+                    href="http://linkedin.com/in/thomas-maxey-776598207"
                     target="_blank"
                     rel="noreferrer"
                   >

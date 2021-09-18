@@ -39,11 +39,6 @@ export default function ServicesSection() {
             title="Web Dev"
             desc="I create high performance websites with blazing fast speed and response time."
           />
-          <ServicesSectionItem
-            icon={<MdPhonelinkSetup />}
-            title="App Dev"
-            desc="I also create mobile apps with unique features and functions"
-          />
         </div>
       </div>
     </ServicesItemsStyles>

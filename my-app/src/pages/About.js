@@ -5,6 +5,7 @@ import Button from '../components/Button';
 import AboutImg from '../assets/images/about-page-img.png';
 import AboutInfoItem from '../components/AboutInfoItem';
 import ContactBanner from '../components/ContactBanner';
+import MyPDF from '../assets/files/Resume.pdf';
 
 const AboutPageStyles = styled.div`
   padding: 20rem 0 10rem 0;
@@ -86,23 +87,26 @@ export default function About() {
               <h2 className="about__heading">A Full Stack Web Developer</h2>
               <div className="about__info">
                 <PText>
-                  I am from a small town in rural Eastern, North Carolina. I
-                  have always had a passion for creating things since I was a
-                  child. That, combined with my shared passion for technology,
-                  has lead me to the path of being a web developer.
+                  I have always had a knack for solving problems with creative
+                  solutions. An avid traveler, coffee fiend, lover of Japanese
+                  Whiskey, and a tech fanatic. Creativity has always been my
+                  stroungsuit and finding an outlet for that has been my muse.
+                  That, combined with my shared passion for technology, has lead
+                  me down the path of being a web developer.
                   <br /> <br />
                   When I am not coding, I am more than likely in the gym or
                   playing the occasional video game. I use my free time to
-                  unwind when I can and enjoy life as much as possible. I love
-                  to travel and visit new countries and cities.
-                  <br />
+                  unwind when I can and enjoy life as much as possible.
+                  <br /> <br />
+                  Check out my resume!
                 </PText>
               </div>
-              <Button
-                btnText="Download CV"
-                btnLink="assets/files/MyResume.pdf"
-                download="MyResume.pdf"
-              />
+              <Button>
+                <a href={MyPDF} download="My_File.pdf">
+                  {' '}
+                  Download Here{' '}
+                </a>
+              </Button>
             </div>
             <div className="right">
               <img src={AboutImg} alt="me" />

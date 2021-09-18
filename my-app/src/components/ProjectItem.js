@@ -24,6 +24,10 @@ const ProjectItemStyles = styled.div`
   .projectItem__title {
     font-size: 2.2rem;
   }
+  .projectItem_link {
+    color: white;
+    font-size: 4rem;
+  }
   .projectItem__desc {
     font-size: 1.6rem;
     font-family: 'RobotoMono Regular';
@@ -47,8 +51,16 @@ export default function ProjectItem({
         <img src={img} alt="project img" />
       </Link>
       <div className="projectItem__info">
-        <Link to="#">
+        <Link to="www.google.com">
           <h3 className="projectItem__title">{title}</h3>
+        </Link>
+        <br /> <br />
+        <Link to="{glink}">
+          <h4 className="ProjectItem_link">Github Repo</h4>
+        </Link>
+        <br /> <br />
+        <Link to="{livelink}">
+          <h4 className="ProjectItem_link">Live Site</h4>
         </Link>
         <p className="projectItem__desc">{desc}</p>
       </div>

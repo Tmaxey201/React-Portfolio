@@ -89,6 +89,8 @@ export default function Projects() {
                 title={item.name}
                 desc={item.desc}
                 img={item.img}
+                glink={item.glink}
+                livelink={item.livelink}
               />
             ))}
           </div>
