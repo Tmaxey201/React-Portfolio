@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.js": "/React-Portfolio/static/js/main.3b04f0aa.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.3b04f0aa.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.72e2eb81.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.72e2eb81.js.map",
+    "static/css/2.c268c7e3.chunk.css": "/React-Portfolio/static/css/2.c268c7e3.chunk.css",
+    "static/js/2.cf9a0ef7.chunk.js": "/React-Portfolio/static/js/2.cf9a0ef7.chunk.js",
+    "static/js/2.cf9a0ef7.chunk.js.map": "/React-Portfolio/static/js/2.cf9a0ef7.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/2.c268c7e3.chunk.css.map": "/React-Portfolio/static/css/2.c268c7e3.chunk.css.map",
+    "static/js/2.cf9a0ef7.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.cf9a0ef7.chunk.js.LICENSE.txt",
+    "static/media/GlobalGastro.ac2abb21.jpg": "/React-Portfolio/static/media/GlobalGastro.ac2abb21.jpg",
+    "static/media/MapMarauders.7cea3977.jpg": "/React-Portfolio/static/media/MapMarauders.7cea3977.jpg",
+    "static/media/Montserrat-Bold.079ca05d.ttf": "/React-Portfolio/static/media/Montserrat-Bold.079ca05d.ttf",
+    "static/media/Montserrat-SemiBold.fa8441f3.ttf": "/React-Portfolio/static/media/Montserrat-SemiBold.fa8441f3.ttf",
+    "static/media/Plantr.fb9a996e.JPG": "/React-Portfolio/static/media/Plantr.fb9a996e.JPG",
+    "static/media/Resume.1ee2ebf8.pdf": "/React-Portfolio/static/media/Resume.1ee2ebf8.pdf",
+    "static/media/RobotoMono-Regular.418a8f9f.ttf": "/React-Portfolio/static/media/RobotoMono-Regular.418a8f9f.ttf",
+    "static/media/about-page-img.0dff8584.png": "/React-Portfolio/static/media/about-page-img.0dff8584.png",
+    "static/media/hero.87e4d238.png": "/React-Portfolio/static/media/hero.87e4d238.png",
+    "static/media/map.5d91d17d.png": "/React-Portfolio/static/media/map.5d91d17d.png",
+    "static/media/personalportfolio.44ed725f.jpg": "/React-Portfolio/static/media/personalportfolio.44ed725f.jpg",
+    "static/media/projectImg.392150cd.png": "/React-Portfolio/static/media/projectImg.392150cd.png",
+    "static/media/scroll-down-arrow.b013ca45.svg": "/React-Portfolio/static/media/scroll-down-arrow.b013ca45.svg",
+    "static/media/social-media-arrow.f5e093ce.svg": "/React-Portfolio/static/media/social-media-arrow.f5e093ce.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72e2eb81.js",
+    "static/css/2.c268c7e3.chunk.css",
+    "static/js/2.cf9a0ef7.chunk.js",
+    "static/js/main.3b04f0aa.chunk.js"
+  ]
+}
