@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import styled from 'styled-components';
 import ProjectImg from '../assets/images/projectImg.png';
+import projects from '../assets/data/projects';
 
 const ProjectItemStyles = styled.div`
   .projectItem__img {
@@ -44,7 +45,11 @@ export default function ProjectItem({
   img = ProjectImg,
   title = 'Project Name',
   desc = 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
+  glink,
+  livelink,
 }) {
+  const glink1 = `https://${glink}`;
+  const livelink1 = `https://${livelink}`;
   return (
     <ProjectItemStyles>
       <Link to="/projects" className="projectItem__img">
@@ -55,13 +60,13 @@ export default function ProjectItem({
           <h3 className="projectItem__title">{title}</h3>
         </Link>
         <br /> <br />
-        <Link to="{glink}">
+        <a href={glink1}>
           <h4 className="ProjectItem_link">Github Repo</h4>
-        </Link>
+        </a>
         <br /> <br />
-        <Link to="{livelink}">
+        <a href={livelink1}>
           <h4 className="ProjectItem_link">Live Site</h4>
-        </Link>
+        </a>
         <p className="projectItem__desc">{desc}</p>
       </div>
     </ProjectItemStyles>
